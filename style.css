@@ -419,6 +419,15 @@ nav ul li:hover {
     margin-top: 8px;
 }
 
-.footer .main1 {
+.footer .main1 .one{
     cursor: pointer;
 }
+
+.footer .main1 .two{
+    cursor: pointer;
+}
+
+.footer .main1 .thre{
+    cursor: pointer;
+}
+
